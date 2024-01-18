@@ -1,0 +1,31 @@
+📌 What's Inside?
+
+0:00 - Introduction: Marrying OpenAI GPT with GitHub repositories
+0:24 - Vision: AI for understanding GitHub repositories
+0:42 - The role of embeddings and vector stores
+1:02 - Accessing the complete codebase on GitHub
+1:44 - Setting up GitHub loader from Lang Chain
+2:57 - Function to retrieve and analyze GitHub repositories
+4:10 - Introducing OpenAI and targeting the GPT-4 model
+6:10 - Addressing rate and context limit challenges
+7:55 - Teaser for the next episode
+
+🔗 Videos mentioned
+
+Part 1: Introduction to GPT & Business Knowledge Integration - [Link]
+• How to give GPT business knowledge? ...
+Part 2: The Power of Vector Stores - [Link]
+• How to give GPT business knowledge? ...
+
+🛠 Keywords:
+
+#javascript #langchain #openai #gpt #GitHub #aiintegration #ai #embedding #vectorstores #coding
+
+🚀 Join the Journey:
+
+If you've enjoyed this deep dive into AI and GitHub repositories, don't forget to hit that like button, share, and subscribe. The next episode promises even more excitement!
+
+🔧 Dive Deeper into the Code:
+
+For those eager to get hands-on, the complete codebase is accessible on GitHub. Here's the link: https://github.com/verwec/GithubAnalyzer
+
